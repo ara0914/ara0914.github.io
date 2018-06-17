@@ -2,7 +2,6 @@
 layout: post
 title: "꽉꽉이"
 description: "테스트입니다."
-date: 2018-06-17
 tags: [샘플 포스트, 테스트, 스타일]
 comments: true
 share: true
